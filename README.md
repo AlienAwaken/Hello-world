@@ -1,3 +1,3 @@
 # Hello-world
-Just another repository
-第一次玩github,helloworld是我的第一个库
+第一次玩github
+hello-world是我的第一个库
